@@ -27,7 +27,7 @@ public class Fibonacci {
                 
     }
     
-    private static int fib (int arg) {   // рекурсивна функція для розрахунку членів послідовності Фібоначчі
+    private static int fib (int arg) {   // рекурсивний метод для розрахунку членів послідовності Фібоначчі
         if (arg == 0){
             return 0;
         }
